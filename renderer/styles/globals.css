@@ -1,0 +1,54 @@
+
+/* @font-face {
+  font-family: 'LexendDeca';
+  src: local('LexendDeca'), url(../fonts/LexendDeca-VariableFont_wght.ttf) format('truetype');
+} */
+
+html, body {
+  background: #0A153E;
+}
+
+@font-face {
+  font-family: "LexendDeca";
+  src: url("../fonts/LexendDeca-VariableFont_wght.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url("../fonts/Prompt-Light.ttf");
+  font-weight: light;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kanit-Light";
+  src: url("../fonts/Kanit-Light.ttf");
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kanit";
+  src: url("../fonts/Kanit-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NotoSansThai";
+  src: url("../fonts/NotoSansThai-VariableFont_wdth,wght.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: "Kanit";
+  src: url("../fonts/Kanit-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+} */
+
+::-webkit-scrollbar {
+  display: none;
+}

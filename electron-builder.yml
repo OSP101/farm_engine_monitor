@@ -1,0 +1,20 @@
+appId: com.smartfarm.water
+productName: Water Dashboard
+copyright: Copyright © 2023 Jay KKU Smart Farm
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
+
+linux:
+  target:
+    - target: deb
+      arch:
+        - arm64
+deb:
+  fpm: ['--architecture', 'armhf']

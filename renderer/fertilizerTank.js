@@ -1,0 +1,103 @@
+const fertilizerTank = [
+  {
+    "name": "ถังน้ำ",
+    "id": "31",
+    "animation": 0,
+    "value": false,
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "flowRate":"",
+    "volume":"",
+    "waterLevel":""
+  },
+  {
+    "name": "ถังปุ๋ย 1",
+    "id": "32",
+    "animation": 0,
+    "value": false,
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "flowRate":"",
+    "volume":"",
+    "waterLevel":""
+  },
+  {
+    "name": "ถังปุ๋ย 2",
+    "id": "33",
+    "animation": 0,
+    "value": false,
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "flowRate":"",
+    "volume":"",
+    "waterLevel":""
+  },
+  {
+    "name": "ถังปุ๋ย 3",
+    "id": "34",
+    "animation": 0,
+    "value": false,
+    "endAnchor": "left",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "flowRate":"",
+    "volume":"",
+    "waterLevel":""
+  },
+  {
+    "name": "ถังปุ๋ย 4",
+    "id": "35",
+    "animation": 0,
+    "value": false,
+    "endAnchor": "left",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "flowRate":"",
+    "volume":"",
+    "waterLevel":""
+  },
+  {
+    "name": "ถังปุ๋ย 5",
+    "id": "36",
+    "animation": 0,
+    "value": false,
+    "endAnchor": "left",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "flowRate":"",
+    "volume":"",
+    "waterLevel":""
+  },
+  {
+    "name": "ถังปุ๋ย 6",
+    "id": "37",
+    "animation": 0,
+    "value": false,
+    "endAnchor": "bottom",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "flowRate":"",
+    "volume":"",
+    "waterLevel":""
+  },
+
+]
+
+module.exports = fertilizerTank

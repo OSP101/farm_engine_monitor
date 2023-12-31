@@ -1,0 +1,108 @@
+const camera = [
+  {
+    "name": "กล้อง 1",
+    "id": "70",
+    "animation": 0,
+    "value": "",
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "camera":"http://127.0.0.1:8083/stream/cam1/channel/0/hlsll/live/index.m3u8"
+  },
+  {
+    "name": "กล้อง 2",
+    "id": "71",
+    "animation": 0,
+    "value": "",
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "camera":"http://127.0.0.1:8083/stream/cam2/channel/0/hlsll/live/index.m3u8"
+  }, {
+    "name": "กล้อง 3",
+    "id": "72",
+    "animation": 0,
+    "value": "",
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "camera":"http://127.0.0.1:8083/stream/cam3/channel/0/hlsll/live/index.m3u8"
+  },
+  {
+    "name": "กล้อง 4",
+    "id": "73",
+    "animation": 0,
+    "value": "",
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "camera":"http://127.0.0.1:8083/stream/cam4/channel/0/hlsll/live/index.m3u8"
+  },
+  {
+    "name": "กล้อง 5",
+    "id": "74",
+    "animation": 0,
+    "value": "",
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "camera":"http://127.0.0.1:8083/stream/cam5/channel/0/hlsll/live/index.m3u8"
+  }, {
+    "name": "กล้อง 6",
+    "id": "75",
+    "animation": 0,
+    "value": "",
+    "endAnchor": "top",
+    "topicControl": "",
+    "topicData" : "",
+    "topicAlive" : "",
+    "alive": "",
+    "camera":"http://127.0.0.1:8083/stream/cam6/channel/0/hlsll/live/index.m3u8"
+  },
+
+  // {
+  //   "name": "ไฟแปลง 1",
+  //   "id": "63",
+  //   "animation": 0,
+  //   "value": "",
+  //   "endAnchor": "top",
+  //   "topicControl": "",
+  //   "topicData" : "",
+  //   "topicAlive" : "",
+  //   "alive": "",
+  // },
+  // {
+  //   "name": "ไฟแปลง 2",
+  //   "id": "64",
+  //   "animation": 0,
+  //   "value": "",
+  //   "endAnchor": "top",
+  //   "topicControl": "",
+  //   "topicData" : "",
+  //   "topicAlive" : "",
+  //   "alive": "",
+  // },
+  // {
+  //   "name": "ไฟแปลง 3",
+  //   "id": "65",
+  //   "animation": 0,
+  //   "value": "",
+  //   "endAnchor": "top",
+  //   "topicControl": "",
+  //   "topicData" : "",
+  //   "topicAlive" : "",
+  //   "alive": "",
+  // },
+]
+
+module.exports = camera
